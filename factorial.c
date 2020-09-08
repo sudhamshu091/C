@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<conio.h>
+#include <conio.h>
 int main()
 {int factorial();
 int result,num;
